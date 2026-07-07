@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/plaza.png" alt="Plaza" width="140">
+  <img src="assets/plaza.png" alt="Plaza" width="280">
   <p>A Paper fork focused on plugin-driven Minecraft servers.</p>
   <p>
     <a href="https://plazamc.org">Website</a> ·
