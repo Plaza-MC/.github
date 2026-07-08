@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/plaza.png" alt="Plaza" width="420">
-  <p>A Paper fork focused on plugin-driven Minecraft servers.</p>
+  <p>A lightweight Paper fork optimized for non vanilla servers.</p>
   <p>
     <a href="https://plazamc.org">Website</a> ·
     <a href="https://github.com/Plaza-MC/Plaza/">Main Project</a>
@@ -9,7 +9,7 @@
 
 ---
 
-Plaza is a Minecraft server software project aimed at plugin-driven environments. It is designed for setups such as lobbies, hubs, minigames, template worlds, and any other scenario where custom plugins handle the gameplay, while vanilla survival mechanics take a back seat.
+Plaza is a lightweight Paper fork optimized for non vanilla servers. It is designed for setups such as lobbies, hubs, minigames, template worlds, and any other scenario where custom plugins handle the gameplay, while vanilla survival mechanics take a back seat.
 
 The goal is to provide a lightweight, flexible base that lets server owners and developers focus on building experiences with plugins, without carrying the weight of features they do not need.
 
